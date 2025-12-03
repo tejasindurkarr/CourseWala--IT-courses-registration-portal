@@ -7,19 +7,17 @@ A Spring Boot MVC web application that allows students to register for courses a
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots/home1.png)
-![Home Page](screenshots/home2.png)
+![Home Page](screenshots/home1.jpg)
+![Home Page](screenshots/home2.jpg)
 
 ### ➕ Students Registration
-![Add Product Page](screenshots/registration.png)
+![Add Product Page](screenshots/registrationForm.jpg)
 
-###  Students Login
-(screenshots/login.png)
 ###  courses
-(screenshots/cources.png)
+![Product List](screenshots/courses.jpg)
 
 ### 📋 students List Page
-![Product List](screenshots/list-students.png)
+![Product List](screenshots/students-list.jpg)
 
 ---
 
